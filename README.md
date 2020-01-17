@@ -2,7 +2,12 @@
 Reading group on Deep Learning
 
 ## Next reading group session
+- Friday, the 24th, @ 15h00
 
+## To propose/vote for the paper
+1. Open an issue with the name of the paper,
+add authors and link on the paper in comments.
+2. Vote for a paper in Issues section.
 
 
 ## Resources
