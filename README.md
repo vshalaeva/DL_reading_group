@@ -7,7 +7,7 @@ Reading group on Deep Learning
 ### Date/time of reading sections
 If you want to particiapte but cannot be there in chosen date and time, drop me e-mail, 
 we will try to find a spot that suits most of the people.
-Time is usually chosen at afternoon, to match time differences.
+Time is usually chosen at afternoon, to match time zone differences.
 
 ## To propose/vote for a paper
 1. Open an issue with the name of the paper,
