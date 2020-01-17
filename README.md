@@ -12,7 +12,7 @@ Time is usually chosen at afternoon, to match time differences.
 ## To propose/vote for a paper
 1. Open an issue with the name of the paper,
 add authors and link on the paper in comments.
-2. Vote for a paper in Issues section.
+2. Vote for a paper in Issues section. Open an issue by clicking on the name and pick your reaction.
 
 ## Resources
 1. [Visualizing ML](http://jalammar.github.io)
