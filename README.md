@@ -9,7 +9,7 @@ If you want to particiapte but cannot be there in chosen date and time, drop me 
 we will try to find a spot that suits most of the people.
 Time is usually chosen at afternoon, to match time differences.
 
-## To propose/vote for the paper
+## To propose/vote for a paper
 1. Open an issue with the name of the paper,
 add authors and link on the paper in comments.
 2. Vote for a paper in Issues section.
