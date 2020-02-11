@@ -2,10 +2,12 @@
 Reading group on Deep Learning
 
 ## Next reading group session
-- Friday, the 24th, @ 15h00
+- Friday, the 14th Feb, @ 15h00
+### Paper to discuss:
+  Learning and Generalization in Overparametrized NN, Going Beyond Two Layers by Allen-Zhu (see the link and abstract in Issues).
 
 ### Date/time of reading sections
-If you want to particiapte but cannot be there in chosen date and time, drop me e-mail, 
+If you want to participate but cannot be there in chosen date and time, drop me e-mail, 
 we will try to find a spot that suits most of the people.
 Time is usually chosen at afternoon, to match time zone differences.
 
